@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import './index.css';
 import App from './App'; // Your main App component
 import Apple from './Components/Apple'; // Import Apple component (apple.jsx)
 import Mango from './Components/Mango'; // Import Mango component (mango.jsx)
